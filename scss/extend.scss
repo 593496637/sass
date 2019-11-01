@@ -1,0 +1,13 @@
+.alert{
+  padding: 10px;
+}
+
+.alert-info{
+  @extend .alert;
+  background: #fff;
+}
+
+.alert a{
+  @extend .alert;
+  background: #2c6283;
+}

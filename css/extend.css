@@ -1,0 +1,13 @@
+.alert, .alert-info, .alert a {
+  padding: 10px;
+}
+
+.alert-info {
+  background: #fff;
+}
+
+.alert a, .alert-info a {
+  background: #2c6283;
+}
+
+/*# sourceMappingURL=extend.css.map */
