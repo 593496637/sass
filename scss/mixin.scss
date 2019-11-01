@@ -1,0 +1,12 @@
+@mixin alert($text-color,$background) {
+  width: 100px;
+  height: 100px;
+  background: $background;
+  a{
+    color: darken($color: $text-color, $amount: 10%);
+  }
+}
+
+.alert-warning{
+  @include alert(#fff,#aaa);
+}

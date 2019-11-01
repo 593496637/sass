@@ -1,0 +1,10 @@
+.alert-warning {
+  width: 100px;
+  height: 100px;
+  background: #aaa;
+}
+.alert-warning a {
+  color: #e6e6e6;
+}
+
+/*# sourceMappingURL=mixin.css.map */

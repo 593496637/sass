@@ -1,0 +1,14 @@
+$color:blue;
+
+ul{
+  color:1px solid $color;
+  li{
+    width: 100px;
+  }
+  &:hover{
+    width: 200px;
+  }
+  & &-text{
+    font-size: 20px;
+  }
+}

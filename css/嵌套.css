@@ -1,0 +1,14 @@
+ul {
+  color: 1px solid blue;
+}
+ul li {
+  width: 100px;
+}
+ul:hover {
+  width: 200px;
+}
+ul ul-text {
+  font-size: 20px;
+}
+
+/*# sourceMappingURL=%C7%B6%CC%D7.css.map */
